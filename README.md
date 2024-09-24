@@ -1,7 +1,17 @@
 Associative Arrays
 ==================
 
-Starter code for a project on associative arrays.
+A project on associative arrays, intended as a partial solution to an
+assignment in Grinnell's CSC-207.
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, and date, and URL._
+---
+
+* Author: Samuel A. Rebelsky
+* URL: <https://github.com/rebelsky/aaLibrary>
+
+---
+
+Citations
+---------
+
+Most of the code is taken from solutions I wrote in past semesters.
